@@ -1,0 +1,70 @@
+token = 
+
+owner = 453470897081286666
+
+prefix = "!"
+
+game = "A7med's Singer [!]"
+
+
+status = IDLE
+
+
+songinstatus=true
+
+altprefix = "@mention"
+
+success = "🎶"
+warning = "⚠️"
+error = "🚫"
+loading = "⌚"
+searching = "🔎"
+
+help = help
+
+npimages = false
+
+stayinchannel = false
+
+maxtime = 0
+
+playlistsfolder = "Playlists"
+
+
+updatealerts=true
+
+
+
+lyrics.default = "A-Z Lyrics"
+
+aliases {
+  settings = []
+
+  lyrics = []
+  nowplaying = [ np, current ]
+  play = [ p ]
+  playlists = [ pls ]
+  queue = [ q ]
+  remove = []
+  scsearch = []
+  search = [ ytsearch ]
+  shuffle = []
+  skip = [ voteskip, s ]
+
+  prefix = [ setprefix ]
+  setdj = []
+  settc = []
+  setvc = []
+  
+  forceremove = [ forcedelete, modremove, moddelete ]
+  forceskip = [ fskip,fs ]
+  movetrack = [ move ]
+  pause = []
+  playnext = []
+  repeat = [ loop ]
+  skipto = [ jumpto ]
+  stop = []
+  volume = [ vol ]
+}
+
+eval=false
