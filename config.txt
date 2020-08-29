@@ -1,4 +1,4 @@
-token = 
+token = NzQ4MTgwNjUwMzc2NDI5NTY4.X0Zrhw.jVnqxplPxuwiN4la236QxW4SXaw
 
 owner = 453470897081286666
 
@@ -12,7 +12,7 @@ status = IDLE
 
 songinstatus=true
 
-altprefix = "@mention"
+altprefix = "!"
 
 success = "🎶"
 warning = "⚠️"
@@ -24,7 +24,7 @@ help = help
 
 npimages = false
 
-stayinchannel = false
+stayinchannel = true
 
 maxtime = 0
 
@@ -57,10 +57,10 @@ aliases {
   setvc = []
   
   forceremove = [ forcedelete, modremove, moddelete ]
-  forceskip = [ fskip,fs ]
+  forceskip = [ fskip, forceskip ]
   movetrack = [ move ]
   pause = []
-  playnext = []
+  playnext = [  ]
   repeat = [ loop ]
   skipto = [ jumpto ]
   stop = []
