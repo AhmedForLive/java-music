@@ -1,0 +1,19 @@
+{
+  "name": "java-music-",
+  "version": "0.3.1",
+  "description": "node app to start java music with fetch ",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "express": "^4.16.4",
+    "fs": "^0.0.2",
+    "request": "*",
+    "shelljs": "^0.8.3"
+  },
+  "engines": {
+    "node": "8.x"
+  },
+  "license": "MIT"
+}
