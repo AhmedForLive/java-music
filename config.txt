@@ -1,4 +1,4 @@
-token = NzQ4MTgwNjUwMzc2NDI5NTY4.X0Zrhw.jVnqxplPxuwiN4la236QxW4SXaw
+token = 
 
 owner = 453470897081286666
 
