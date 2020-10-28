@@ -3,7 +3,7 @@ const app = express();
 const fs = require("fs")
 var shell = require('shelljs'); 
 var request = require('request');
-app.get("/", (request, response) => response.sendStatus(200))
+app.get("/", (request, response) => response.send("ok"))
 const listener = app.listen(process.env.PORT || 3000, function() {});
 
 
