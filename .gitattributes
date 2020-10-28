@@ -1,4 +1,0 @@
-bot.jar filter=lfs diff=lfs merge=lfs -text
-*.jarsign filter=lfs diff=lfs merge=lfs -text
-fil filter=lfs diff=lfs merge=lfs -text
-*.jar filter=lfs diff=lfs merge=lfs -text
