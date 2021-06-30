@@ -8,7 +8,7 @@ const listener = app.listen(process.env.PORT || 3000, function() {});
 
 
 var options = {
-    url: "https://github.com/jagrosh/MusicBot/releases/download/0.3.2/JMusicBot-0.3.2.jar",
+    url: "https://github.com/jagrosh/MusicBot/releases/download/0.3.4/JMusicBot-0.3.4.jar",
     method: "get",
     encoding: null
 };
